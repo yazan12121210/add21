@@ -1,0 +1,9 @@
+{
+  "name": "Hand Energy Control",
+  "short_name": "EnergyControl",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#050712",
+  "theme_color": "#050712",
+  "orientation": "portrait-primary"
+}
